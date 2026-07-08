@@ -1,3 +1,7 @@
 *.db
+*.db.bak-*
 claude_desktop_config.json
 whatsapp.log
+
+# Compiled Go bridge binary
+whatsapp-bridge/whatsapp-client
